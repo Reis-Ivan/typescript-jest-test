@@ -1,4 +1,4 @@
-import { CartItem } from './interfaces/cart-item';
+import { CartItem } from './interfaces/cart-item-Protocol';
 import { Discount } from './discount';
 import { ShoppingCartProtocol } from './interfaces/shopping-cart-protocol';
 

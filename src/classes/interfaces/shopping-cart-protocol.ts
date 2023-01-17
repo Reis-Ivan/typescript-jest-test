@@ -1,4 +1,4 @@
-import { CartItem } from './cart-item';
+import { CartItem } from './cart-item-Protocol';
 
 export interface ShoppingCartProtocol {
   items: Readonly<CartItem[]>;
